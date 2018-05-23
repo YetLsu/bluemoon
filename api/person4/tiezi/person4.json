@@ -1,4 +1,5 @@
-[
+{
+"tiezi":[
 	{
 	"name":"梦传奇",
 	"icon":"https://raw.githubusercontent.com/YetLsu/bluemoon/master/api/persons/person4%402x.png",
@@ -24,3 +25,5 @@
 	三倍练功活动一旦开启，傲天蓝月传奇系统会发出弹窗提示。此时你可以选择放下手中参与的活动，赶紧投入到三倍练功中来。每天也就这样一个小时，机不可失，时不再来。"
 	}
 ]
+
+}

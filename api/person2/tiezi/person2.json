@@ -1,4 +1,5 @@
-[
+{
+	"tiezi":[
 	{
 	"name":"哥天下无敌",
 	"icon":"https://raw.githubusercontent.com/YetLsu/bluemoon/master/api/persons/person2%402x.png",
@@ -46,3 +47,5 @@
 5.在首次合服后获得神龙霸主的帮会（IOS区为沙城霸主活动），会长将获得38888元宝的奖励以及“千秋万代”的游戏称号。"
 }
 ]
+
+}
